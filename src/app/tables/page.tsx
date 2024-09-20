@@ -3,13 +3,13 @@ import TableOne from "@/components/Tables/TableOne";
 import TableThree from "@/components/Tables/TableThree";
 import TableTwo from "@/components/Tables/TableTwo";
 
-import { Metadata } from "next";
 import DefaultLayout from "@/components/Layouts/DefaultLayout";
+import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Next.js Tables | TailAdmin - Next.js Dashboard Template",
+  title: "Next.js Tables | Give&Take - Next.js Dashboard Template",
   description:
-    "This is Next.js Tables page for TailAdmin - Next.js Tailwind CSS Admin Dashboard Template",
+    "This is Next.js Tables page for Give&Take - Next.js Tailwind CSS Admin Dashboard Template",
 };
 
 const TablesPage = () => {
